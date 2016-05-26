@@ -8,12 +8,12 @@ Jess:
   -Working well as a group
   -Good planning, building a full stack app
   
-Maxine
+Maxine:
   -Group facilitation
   -client-side / jquery
   -testing
   
-Heidi
+Heidi:
   -Client-side rendering
   -project management
   -git mastery
@@ -22,14 +22,14 @@ Heidi
   -JS framework
   -Jquery framework
 
-Rahmona
+Rahmona:
   -Make a full stack app
   -Getting workstreams and branches together effectively (seams)
   -function crushing
   -debugging
   -Jquery
   
-Lizzie
+Lizzie:
   -React
   -Non-react client-side
   -SQL joins
@@ -38,7 +38,7 @@ Lizzie
   -Oauth/Bcrypt
 
   
-Rath
+Rath:
   -DOM manipulation with jquery
   -responsive web dev with foundation (includes mob first)
   -css with sass
