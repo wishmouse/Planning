@@ -31,29 +31,30 @@ date
 #PostgreSQL Database Schema
 
 ##users table:
-- userID
-- name
-- email
+- userID - auto incrementing
+- name - string
+- email - string
 - hashed password
-- ratings?
-- comments?
+- ratings? - integer?
+- comments? - string
 
 ##listings table:
-- listingID
-- userID
-- origin
-- destination
-- time-date
-- description
+- listingID - auto incrementing
+- userID - string
+- origin - string
+- destination - string
+- time-date - timestamp? integer?
+- description - string
 
 ##rides table:
-- rideID
+- rideID - auto incrementing
 - listingID
 - driver(userID)
 - passenger(userID)
-- Accepted(boolean)
+- Accepted - boolean
 
 ##comments table:
 - listingID
-- commenterID (userID), 
-- comment
+- commentID - auto incrementing
+- commenterID (userID)
+- comment - string
