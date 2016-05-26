@@ -1,33 +1,47 @@
 Learning Objectives:
 
 Jess: 
-  -Working well as a group
   -React
+  -integrating different parts of the app
+  -git mastery
+  -Testing
+  -Working well as a group
   -Good planning, building a full stack app
-  -Better understanding of testing
-  
-Rath
-  -A finished project that we're all happy with
   
 Maxine
-  -React
-  -Planning and working as a group efficiently
+  -Group facilitation
+  -client-side / jquery
+  -testing
   
 Heidi
-  -React
-  -Client-side (without react)
-  -Testing
+  -Client-side rendering
+  -project management
+  -git mastery
+  -testing
+  -Teamwork
+  -JS framework
+  -Jquery framework
 
 Rahmona
   -Make a full stack app
-  -Working well as a group
+  -Getting workstreams and branches together effectively (seams)
+  -function crushing
+  -debugging
+  -Jquery
   
 Lizzie
   -React
   -Non-react client-side
   -SQL joins
+  -Function crushing
+  -Jquery
   -Oauth/Bcrypt
+
   
+Rath
+  -DOM manipulation with jquery
+  -responsive web dev with foundation (includes mob first)
+  -css with sass
   
   
   
