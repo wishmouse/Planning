@@ -28,8 +28,32 @@ date
 - hbs
 - tape / nightwatch
 
-#PostgreSQL Database
-- users table: userID, name, email, hashed password, ratings?, comments?
-- listings table: listingID, userID, origin, destination, time-date, description
-- rides table: rideID, listingID, driver(userID), passenger(userID), Accepted(boolean)
-- comments table: listingID, commenterID (userID), 
+#PostgreSQL Database Schema
+
+##users table:
+- userID
+- name
+- email
+- hashed password
+- ratings?
+- comments?
+
+##listings table:
+- listingID
+- userID
+- origin
+- destination
+- time-date
+- description
+
+##rides table:
+- rideID
+- listingID
+- driver(userID)
+- passenger(userID)
+- Accepted(boolean)
+
+##comments table:
+- listingID
+- commenterID (userID), 
+- comment
