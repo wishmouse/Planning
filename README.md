@@ -23,7 +23,7 @@ date
 #Technologies:
 
 - Knex, PostgreSQL
-- bcrypt-node & OAuth
+- bcrypt-node & OAuth w/ OAuth facebook strategy
 - server ( express )
 - hbs
 - tape / nightwatch
@@ -31,3 +31,4 @@ date
 #PostgreSQL Database
 - users table: userID, name, email, hashed password, 
 - listings table: to, from, time, date.. (maybe time & date are one field?)
+- rides table: driver(userID), passenger(userID), ..
