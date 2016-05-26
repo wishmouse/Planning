@@ -27,3 +27,7 @@ date
 - server ( express )
 - hbs
 - tape / nightwatch
+
+#PostgreSQL Database
+- users table: userID, name, email, hashed password, 
+- listings table: to, from, time, date.. (maybe time & date are one field?)
