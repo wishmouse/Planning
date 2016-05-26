@@ -29,7 +29,7 @@ date
 - tape / nightwatch
 
 #PostgreSQL Database
-- users table: userID, name, email, hashed password, 
-- listings table: listingID, to, from, time, date (maybe time & date are one field?), userID, description
-- rides table: listingID, driver(userID), passenger(userID), Accepted(boolean)
+- users table: userID, name, email, hashed password, ratings?, comments?
+- listings table: listingID, userID, origin, destination, time-date, description
+- rides table: rideID, listingID, driver(userID), passenger(userID), Accepted(boolean)
 - comments table: listingID, commenterID (userID), 
