@@ -4,8 +4,8 @@ Tandem aims to create an active, fun safe community for people wanting to share 
 
 #Technologies:
 
-  Knex, PostgreSQL
-  bcrypt-node & OAuth
-  server ( express? hapi? )
-  hbs? / react - search criteria
-  tape / nightwatch
+- Knex, PostgreSQL
+- bcrypt-node & OAuth
+- server ( express )
+- hbs
+- tape / nightwatch
