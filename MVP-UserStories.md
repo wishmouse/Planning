@@ -1,4 +1,5 @@
 MVP user-stories:
+================
 
 1. User can register / create profile
 2. User can log in
@@ -6,5 +7,4 @@ MVP user-stories:
 4. User can search listings
 5. User can contact other users - ask / answer questions
 6. Users can request / decline ride
-7. User can rate and comment based on experience
 8. 
