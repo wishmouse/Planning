@@ -2,4 +2,4 @@ Stretch Goals
 ============
 
  - privacy settings for commenting/ contacting another user
- -  using OAuth facebook, user can see other mutual friends?
+ - using OAuth facebook, user can see other mutual friends?
