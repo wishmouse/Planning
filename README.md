@@ -30,5 +30,6 @@ date
 
 #PostgreSQL Database
 - users table: userID, name, email, hashed password, 
-- listings table: to, from, time, date.. (maybe time & date are one field?)
-- rides table: driver(userID), passenger(userID), ..
+- listings table: listingID, to, from, time, date (maybe time & date are one field?), userID, description
+- rides table: listingID, driver(userID), passenger(userID), Accepted(boolean)
+- comments table: listingID, commenterID (userID), 
